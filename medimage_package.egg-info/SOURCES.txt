@@ -1,0 +1,6 @@
+setup.py
+medimage_package.egg-info/PKG-INFO
+medimage_package.egg-info/SOURCES.txt
+medimage_package.egg-info/dependency_links.txt
+medimage_package.egg-info/requires.txt
+medimage_package.egg-info/top_level.txt
