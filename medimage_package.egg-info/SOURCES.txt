@@ -1,4 +1,9 @@
 setup.py
+medimage_package/__init__.py
+medimage_package/image_filtering.py
+medimage_package/image_operations.py
+medimage_package/image_segmentation.py
+medimage_package/image_utils.py
 medimage_package.egg-info/PKG-INFO
 medimage_package.egg-info/SOURCES.txt
 medimage_package.egg-info/dependency_links.txt
