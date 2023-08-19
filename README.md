@@ -1,5 +1,5 @@
 "# MEDIMAGE" 
-# MediImage - Medical Image Processing Package
+# MedImage - Medical Image Processing Package
 
 ## Goals
 The "MediImage" package aims to provide intermediate-level medical image processing functionalities for Python users. It includes a variety of image processing techniques, such as filtering, edge detection, and image segmentation, commonly used in the medical field.
